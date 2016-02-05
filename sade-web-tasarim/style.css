@@ -1,0 +1,199 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+	/*  MUHAMMED ZAİM TARAFINDAN YAPILMIŞTIR... MUHAMMEDZAİM.COM  İNFO@MUHAMMEDZAİM.COM */
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+a{
+	text-decoration: none;
+}
+
+ul li{
+	list-style-type: none;
+}
+
+.text{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -250px; 
+	margin-top: -150px;
+}
+
+.text p{
+	font-size: 100px;
+	position: absolute;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #535353;
+}
+
+
+.nav{
+	background-color: #eee;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	font-family: 'Roboto', sans-serif;
+	position: relative;
+}
+
+.nav ul li{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	line-height: 50px;
+	text-align: center;
+}
+
+.nav ul li a{
+	color: #535353;
+	display: block;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.nav ul li a:hover{
+	color: #fff;
+	background-color: #535353;
+}
+
+
+.text-hak{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -225px; 
+	margin-top: -150px;
+	text-align: center;
+	color: #535353;
+}
+
+.text-hak h1{
+	font-size: 35px;
+}
+
+.text-hak p{
+	padding-top: 25px;
+	font-size: 25px;
+	width: 480px;
+}
+
+.mail{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -150px; 
+	margin-top: -150px;
+	text-align: center;
+}
+
+.mail p a{
+	font-size: 100px;
+	position: absolute;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	color: #535353;
+}
+
+
+
+
+/*  MUHAMMED ZAİM TARAFINDAN YAPILMIŞTIR... MUHAMMEDZAİM.COM  İNFO@MUHAMMEDZAİM.COM */
+
+
+
+
+
+
+
+@media screen and (max-width: 768px){
+	.text{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -200px; 
+	margin-top: -100px;
+	}
+	.text p{
+	font-size: 75px;
+	position: absolute;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	}
+
+	.text-hak{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -225px; 
+	margin-top: -100px;
+	text-align: center;
+	}
+
+	.text-hak h1{
+		font-size: 35px;
+	}
+
+	.text-hak p{
+		padding-top: 25px;
+		font-size: 25px;
+		width: 480px;
+	}
+}
+/*  MUHAMMED ZAİM TARAFINDAN YAPILMIŞTIR... MUHAMMEDZAİM.COM  İNFO@MUHAMMEDZAİM.COM */
+
+@media screen and (max-width: 480px){
+	.text{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -130px; 
+	margin-top: -50px;
+	}
+	
+	.text-hak{
+	left: 50%;
+	top: 50%;
+	position: absolute;
+	margin-left: -150px; 
+	margin-top: -150px;
+	text-align: center;
+	}
+
+	.text p{
+	font-size: 50px;
+	position: absolute;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	}
+	.text-hak h1{
+	font-size: 20px;
+	}
+
+	.text-hak p{
+	padding-top: 25px;
+	font-size: 25px;
+	width: 300px;
+	}
+	
+
+	.mail{
+		left: 50%;
+		top: 50%;
+		position: absolute;
+		margin-left: -125px; 
+		margin-top: -150px;
+		text-align: center;
+	}
+
+	.mail p a{
+		font-size: 75px;
+		position: absolute;
+		text-align: center;
+		font-family: 'Roboto', sans-serif;
+		color: #535353;
+	}
+}
+/*  MUHAMMED ZAİM TARAFINDAN YAPILMIŞTIR... MUHAMMEDZAİM.COM  İNFO@MUHAMMEDZAİM.COM */
